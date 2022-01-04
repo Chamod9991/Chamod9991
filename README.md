@@ -1,6 +1,6 @@
 <h1 align="center">Howdy!👋 I'm Chamod!</h1>
 
-### :smiley_cat: I am a currently an undergradute over at Sabaragamuwa University of Sri Lanka.
+### :smiley_cat: Currently an undergradute over at Sabaragamuwa University of Sri Lanka.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
