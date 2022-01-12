@@ -6,10 +6,10 @@
 
 ## By the way here are some of my statistics 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-koder&theme=onedark&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-koder&theme=onedark&layout=compact) -->
 <br/>
 ![CKoder's streak](https://github-readme-streak-stats.herokuapp.com/?user=c-koder&theme=onedark)
-![CKoder's github stats](https://github-readme-stats.vercel.app/api?username=c-koder&show_icons=true&theme=onedark)
+<!-- ![CKoder's github stats](https://github-readme-stats.vercel.app/api?username=c-koder&show_icons=true&theme=onedark) -->
 
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact: I love playing video games and writing!
