@@ -5,12 +5,10 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-<center>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-koder&theme=onedark&layout=compact)
 <br/> -->
 ![CKoder's streak](https://github-readme-streak-stats.herokuapp.com/?user=c-koder&theme=onedark)
 <!-- ![CKoder's github stats](https://github-readme-stats.vercel.app/api?username=c-koder&show_icons=true&theme=onedark) -->
-</center>
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact: I love playing video games and writing!
 
